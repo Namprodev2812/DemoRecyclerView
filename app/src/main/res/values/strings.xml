@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DemoRecyclerView</string>
+    <string name="user_trinh_xuan_nam">Trịnh Xuân Nam</string>
+    <string name="phone_trinh_xuan_nam">0988612805</string>
+    <string name="user_nguyen_duc_canh">Nguyễn Đức Cảnh</string>
+    <string name="user_dao_tuan_anh">Đào Tuấn Anh</string>
+    <string name="user_ronaldo">Cristiano Ronaldo</string>
+    <string name="phone_nguyen_duc_canh">0988612806</string>
+    <string name="phone_dao_tuan_anh">0988612807</string>
+    <string name="phone_ronaldo">0988612808</string>
 </resources>
